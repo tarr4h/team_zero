@@ -35,7 +35,7 @@
  <table id="adminTable" style="display:none;">
  	<thead>
  		<tr>
- 			<th>관리자 비밀번호를 입력하세요</th>
+ 			<th>관리자 비밀번호를 입력하세요.</th>
  		</tr>
  	</thead>
  	<tbody>
