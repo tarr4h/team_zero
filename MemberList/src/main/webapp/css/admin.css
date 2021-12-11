@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+	height:400px;
+	width: 360px;
+}
+#dateTable{
+	width:100%;
+	margin-top:90px;
+	border-collapse: collapse;
+}
+
+#dateTable th{
+	border: 1px solid gray;
+	background-color: #b2cdb2;
+}
+
+#dateTable td{
+	border: 1px solid gray;
+	text-align:center;
+	height: 28px;
+	background-color: #efefef;
+}
+
+.inputArea{
+	width:100%;
+	border:none;
+	background-color: #efefef;
+}
+
+#setDate{
+	width: 98%;
+	height: 28px;
+	border: 1px dotted gray;
+}
+#setArea{
+	width: 98%;
+	height: 28px;
+	border: 1px dotted gray;
+}
