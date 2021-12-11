@@ -204,7 +204,6 @@
 		$.ajax({
 			url: "<%= request.getContextPath() %>/th/playarea",
 			success(data){
-				console.log(data);
 				const info = `
 					<tr>
 						<th>
